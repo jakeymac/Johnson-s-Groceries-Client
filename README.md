@@ -1,14 +1,6 @@
 #Johnson's Groceries Client
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote and how it integrates with a Cloud Database.  Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
 This is a simple grocery store client that allows the user/employee to interact with a database that stores the stock information for a store's inventory. This software allows the user/employee to view an item's current stock and product info, medit that stock or info, add new items to stock, and even form a full receipt and finalize a purchase. This software is written completely in python, and utilizes google firebase for all data storage and managementt. I wrote this program to learn more about how to use cloud databases in programming.
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
 [Software Demo Video](https://youtu.be/ECQ9UF6Hohk)
 
