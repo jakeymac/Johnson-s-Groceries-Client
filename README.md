@@ -1,4 +1,3 @@
-#Johnson's Groceries Client
 # Overview
 This is a simple grocery store client that allows the user/employee to interact with a database that stores the stock information for a store's inventory. This software allows the user/employee to view an item's current stock and product info, medit that stock or info, add new items to stock, and even form a full receipt and finalize a purchase. This software is written completely in python, and utilizes google firebase for all data storage and managementt. I wrote this program to learn more about how to use cloud databases in programming.
 
